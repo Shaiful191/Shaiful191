@@ -21,7 +21,5 @@ Skills: Dart/Flutter/Dot net API/NodeJs API/JavaScript/SQL
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaiful191&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/Shaiful191)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Shaiful191)  
 
