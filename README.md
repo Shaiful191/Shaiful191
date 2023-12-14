@@ -1,14 +1,15 @@
 ![Mobile App Developer](https://media.licdn.com/dms/image/D4D16AQGuqw1PL1rMhg/profile-displaybackgroundimage-shrink_350_1400/0/1701794240605?e=1707955200&v=beta&t=GLOtOdvNhYi40Li71dcODhQW7K-504_sgdLDJ5-7LYE)
 
 ### Hi there 👋, I'm Shaiful Islam
-#### Mobile App Developer
+#### Mobile App Developer(Flutter)
 
 
 I am a CSE graduate and also certified on Mobile App Development under the ICT division. I have done some projects using flutter such as Kazi Finding App(Vendor App), Talikhata(Sales Order service app), Online Bazar (e-commerce app) and many more basic applications . I have also done competitive programming on different sites like Codeforces, HackerRank, Leetcode and LightOj etc. I solved around more than 200+ problems on different sites.
 
 Skills: Dart/Flutter/Dot net API/NodeJs API/JavaScript/SQL
 
-- 🔭 I’m currently working on MEGASOFT SOLUTIONS 
+- 🔭 I’m currently working on MEGASOFT SOLUTIONS
+- 🔏 I'm previously worked in Software Arena Ltd
 - 🌱 I’m currently learning Advance Flutter Topic 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Flutter App Development 
