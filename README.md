@@ -18,7 +18,7 @@ Skills: Dart/Flutter/Dot net API/NodeJs API/JavaScript/SQL
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shaiful191)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/http://www.linkedin.com/in/shaiful-islam-980a13279/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaiful191)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Shaiful191)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaiful191)](https://github.com/anuraghazra/github-readme-stats)
 
