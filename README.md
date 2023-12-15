@@ -23,9 +23,7 @@ Skills: Dart/Flutter/Dot net API/NodeJs API/JavaScript/SQL
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaiful191&label=Profile%20views&color=0e75b6&style=flat" alt="shaiful191" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaiful191&show_icons=true&locale=en&layout=compact" alt="shaiful191" /></p>
 
