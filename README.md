@@ -9,7 +9,7 @@ Skills: Dart/Flutter/Dot net API/NodeJs API/JavaScript/SQL
 
 - 🔭 I’m currently working on MEGASOFT SOLUTIONS
 - 🔏 I'm previously worked in Software Arena Ltd
-- 🌱 I’m currently learning payment gateway  
+- 🌱 I’m currently learning backend  
 - 👯 I’m looking to collaborate on Github 
 - 📫 How to reach me: saifulislamridoy1999@gmail.com 
 
