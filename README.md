@@ -2,9 +2,6 @@
 # <center> Hi there 👋, I'm Shaiful Islam </center>
 ### Software Engineer
 
-
-I am a CSE graduate and also certified on Mobile App Development under the ICT division. I have done some professional projects such as Kazi Finding App(Vendor App) with backend, Talikhata(Sales Order service app). I have also done competitive programming on different sites like Codeforces, HackerRank, Leetcode and LightOj etc. I solved around more than 200+ problems on different sites.
-
 Skills: Dart/Flutter/Dot net API/NodeJs API/JavaScript/SQL
 
 - 🔭 I’m currently working on MEGASOFT SOLUTIONS
