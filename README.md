@@ -11,7 +11,7 @@ Skills: Dart/Flutter/Dot net API/NodeJs API/JavaScript/SQL
 - 🔏 I'm previously worked in Software Arena Ltd
 - 🌱 I’m currently learning backend  
 - 👯 I’m looking to collaborate on Github 
-- 📫 How to reach me: saifulislamridoy1999@gmail.com https://leetcode.com/shaiful_26/
+- 📫 How to reach me: saifulislamridoy1999@gmail.com 
 
 
 
