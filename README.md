@@ -23,7 +23,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,nodejs,dotnet,firebase,mysql,mongodb,cpp,html,postman)](https://skillicons.dev)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaiful191&" alt="shaiful191" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaiful191&" alt="shaiful191" />          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaiful191&show_icons=true&locale=en&layout=compact" alt="shaiful191" /></p>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaiful191&show_icons=true&locale=en&layout=compact" alt="shaiful191" /></p>
