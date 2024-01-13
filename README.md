@@ -1,8 +1,7 @@
-
-<center>
 #  Hi there 👋, I'm Shaiful Islam 
+
 ### Software Engineer
-</center>
+
 Skills: Dart/Flutter/Dot net API/NodeJs API/JavaScript/SQL
 
 - 🔭 I’m currently working on MEGASOFT SOLUTIONS
