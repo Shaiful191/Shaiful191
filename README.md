@@ -20,6 +20,7 @@
 </p>
 
 <h3 align="left">Skills: </h3>
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaiful191&" alt="shaiful191" /></p>
