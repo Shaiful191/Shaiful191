@@ -10,6 +10,13 @@ Skills: Dart/Flutter/Dot net API/NodeJs API/JavaScript/SQL
 - 👯 I’m looking to collaborate on Github 
 - 📫 How to reach me: saifulislamridoy1999@gmail.com 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shaiful-islam-980a13279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shaiful-islam-980a13279/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/devshaiful26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/devshaiful26" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/shaiful_26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/shaiful_26" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/shaiful_26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shaiful_26/" height="30" width="40" /></a>
+</p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaiful191&" alt="shaiful191" /></p>
