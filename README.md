@@ -1,11 +1,8 @@
 
 <h1 align="center">Hi there 👋, I'm Shaiful Islam</h1>
 <h3 align="center">Software Engineer</h3>
-
-
 </br>
 </br>
-
 - 🔭 I’m currently working on MEGASOFT SOLUTIONS
 - 🔏 I'm previously worked in Software Arena Ltd
 - 🌱 I’m currently learning backend  
