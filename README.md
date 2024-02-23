@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on MEGASOFT SOLUTIONS
 - 🔏 I'm previously worked in Software Arena Ltd
 - 🌱 I’m currently learning backend  
-- 🌐 How to reach me: https://shaiful191.github.io/shaifulislam.github.io/
+- 🌐 How to reach me: https://shaiful191.github.io/shaifulislamHRidoy.io/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
