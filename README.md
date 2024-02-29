@@ -3,7 +3,8 @@
 <h3 align="center">Software Engineer</h3>
 
 
-- 🔭 I’m currently working on MEGASOFT SOLUTIONS
+- 🔭 I’m currently working on Deshit Ltd
+- 🔏 I'm previously worked in MEGASOFT SOLUTIONS
 - 🔏 I'm previously worked in Software Arena Ltd
 - 🌱 I’m currently learning backend  
 - 🌐 How to reach me: https://shaiful191.github.io/shaifulislamHRidoy.io/
