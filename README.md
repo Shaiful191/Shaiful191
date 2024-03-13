@@ -15,7 +15,7 @@
 <a href="https://codeforces.com/profile/shaiful_26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/shaiful_26" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/devshaiful26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/devshaiful26" height="30" width="40" /></a>
 <a href="https://lightoj.com/user/devhridoy" target="blank"><img align="center" src="https://lightoj.com/loj-og-image.png" alt="https://leetcode.com/shaiful_26/" height="30" width="40" /></a>
-<a href="https://leetcode.com/shaiful_26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/saifulislamridoy1999/" height="30" width="40" /></a>
+<a href="[https://leetcode.com/shaiful_26/](https://leetcode.com/saifulislamridoy1999/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/saifulislamridoy1999/" height="30" width="40" /></a>
 
 </p>
 
