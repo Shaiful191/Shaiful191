@@ -3,8 +3,10 @@
 <h3 align="center">Software Engineer</h3>
 
 - 🔏 I'm previously worked in MEGASOFT SOLUTIONS
-- 🌱 I’m currently learning backend  
+- 🌱 I’m currently learning backend
+- 🌐 My youtube channel: https://youtube.com/@dev_shaiful?si=Ox3e_UgtMes9PbDm 
 - 🌐 How to reach me: https://shaiful191.github.io/shaifulislamHRidoy.io/
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
