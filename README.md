@@ -4,7 +4,7 @@
 
 - 🔏 I'm previously worked in MEGASOFT SOLUTIONS
 - 🌱 I’m currently learning backend
-- 🌐 My youtube channel: https://youtube.com/@dev_shaiful?si=Ox3e_UgtMes9PbDm 
+- ▶️ My youtube channel: https://youtube.com/@dev_shaiful?si=Ox3e_UgtMes9PbDm 
 - 🌐 How to reach me: https://shaiful191.github.io/shaifulislamHRidoy.io/
 
 
