@@ -2,8 +2,7 @@
 <h1 align="center">Hi there 👋, I'm Shaiful Islam</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔏 I'm previously worked in MEGASOFT SOLUTIONS
-- 🌱 I’m currently learning backend
+- 🔏 I'm currently working in itscholarbd 
 - ▶️ My youtube channel: https://youtube.com/@dev_shaiful?si=Ox3e_UgtMes9PbDm 
 - 🌐 How to reach me: https://shaiful191.github.io/shaifulislamHRidoy.io/
 
