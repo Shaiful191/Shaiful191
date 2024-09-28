@@ -3,7 +3,6 @@
 <h3 align="center">Software Engineer</h3>
 
 - 🔏 I'm currently working in itscholarbd 
-- ▶️ My youtube channel: https://youtube.com/@dev_shaiful?si=Ox3e_UgtMes9PbDm 
 - 🌐 How to reach me: https://shaiful191.github.io/shaifulislamHRidoy.io/
 
 
