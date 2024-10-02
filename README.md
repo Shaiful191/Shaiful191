@@ -18,7 +18,7 @@
 
 <h3 align="left">Skills: </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,html,css,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,javascript)](https://skillicons.dev)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaiful191&" alt="shaiful191" />          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaiful191&show_icons=true&locale=en&layout=compact" alt="shaiful191" /></p>
 
