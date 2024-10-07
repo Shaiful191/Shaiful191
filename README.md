@@ -3,7 +3,6 @@
 <h3 align="center">Software Engineer</h3>
 
 - 🔏 I'm currently working in itscholarbd 
-- 🌐 How to reach me: https://shaiful191.github.io/shaifulislamHRidoy.io/
 
 
 <h3 align="left">Connect with me:</h3>
